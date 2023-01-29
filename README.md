@@ -34,6 +34,7 @@ In this CTF, we investigate "Nelexat" a Swiss legal company created especially f
 
 ## <u>Statement</u>
 ![Statement_The-Lawyer.png](./Survey_TheLawyer/The-Lawyer/Statement_The-Lawyer.png)
+
 **[Unlocked after completing "The Law Firm"]**
 
 -  Here we need to search in which city studied the owner of the company. Nothing more simple, we search a little on their website. A name is given in the legal conditions: "Lian Nussbaumer"
